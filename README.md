@@ -1,7 +1,4 @@
-# Spring Boot Cassandra CRUD example - Restful CRUD API
-
-For more detail, please visit:
-> [Spring Boot Cassandra CRUD example using Spring Data](https://bezkoder.com/spring-boot-cassandra-crud/)
+# Spring Boot Cassandra Kctv - Rest API
 
 ## Run Spring Boot application
 ```
