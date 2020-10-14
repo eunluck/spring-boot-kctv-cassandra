@@ -1,4 +1,4 @@
-package com.bezkoder.spring.data.cassandra;
+package com.kctv.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,7 +7,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringBootDataCassandraApplication {
 
 	public static void main(String[] args) {
+
+
 		SpringApplication.run(SpringBootDataCassandraApplication.class, args);
+
+
 	}
 
 }
